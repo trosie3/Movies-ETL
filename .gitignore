@@ -1,3 +1,9 @@
+#ignore config
+config.py
+
+#ignore large csv
+ratings.csv
+
 # DS Store
 .DS_store
 
